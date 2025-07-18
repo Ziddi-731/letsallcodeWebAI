@@ -874,7 +874,7 @@ Key requirements:
                 progress_bar.progress(40)
                 status_text.text("✅ Website structure planned!")
                 
-                with st.expander("📋 View Complete Website Structure", expanded=True):
+                with st.expander("📋 View Complete Website Structure", expanded=False):
                     st.markdown(structure_response)
                 
                 # Step 2: Get images for website
