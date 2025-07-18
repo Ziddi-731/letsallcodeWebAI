@@ -734,8 +734,9 @@ def show_about():
     
     **Our CEO:** Zohaib Shabbir \n 
     **Contact us at:** zohaibshabbir988@gmail.com\n
-    **Instagram : ** https://www.instagram.com/letsall.code\n
-    **Linkdin : ** www.linkedin.com/in/zohaib-shabbir-508427297\n
+    **Instagram :** https://www.instagram.com/letsall.code\n
+    **Linkdin :** www.linkedin.com/in/zohaib-shabbir-508427297\n
+    **Reviews link:** https://forms.gle/79trorCYMWZTQ9R8A
     This tool generates complete frontend solutions with:
     - Multiple pages
     - Mobile-responsive design
