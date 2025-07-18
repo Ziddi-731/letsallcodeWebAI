@@ -734,7 +734,8 @@ def show_about():
     
     **Our CEO:** Zohaib Shabbir  
     **Contact us at:** zohaibshabbir988@gmail.com
-    
+    **Instagram : ** https://www.instagram.com/letsall.code
+    **Linkdin : ** www.linkedin.com/in/zohaib-shabbir-508427297
     This tool generates complete frontend solutions with:
     - Multiple pages
     - Mobile-responsive design
@@ -758,7 +759,7 @@ if not st.session_state.authenticated:
         show_about()
 else:
     # Main app interface for authenticated users
-    st.title(f"🚀 AI Professional Website Generator (Welcome {st.session_state.user_name})")
+    st.title(f"🚀 Letsallcode AI Professional Website Generator (Welcome {st.session_state.user_name})")
     st.markdown("### Create complete, responsive multi-page websites with mobile-friendly navigation!")
     
     # Enhanced sidebar configuration
@@ -852,6 +853,9 @@ Key requirements:
     - Include all specified features
     - Use images appropriately
     use only style.css for css not anyother path like "css/style.css"
+    use  js file script.js not anyother path like "js/script.js"
+    use images gfrom like not folder like "images/"
+    make it responsive for both desktop,mobile and tablets
     """
 
     # Generation button
