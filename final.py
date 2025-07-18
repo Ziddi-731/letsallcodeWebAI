@@ -732,10 +732,10 @@ def show_about():
     - Provide high-quality, production-ready websites
     - Make the web more accessible to everyone
     
-    **Our CEO:** Zohaib Shabbir  
-    **Contact us at:** zohaibshabbir988@gmail.com
-    **Instagram : ** https://www.instagram.com/letsall.code
-    **Linkdin : ** www.linkedin.com/in/zohaib-shabbir-508427297
+    **Our CEO:** Zohaib Shabbir \n 
+    **Contact us at:** zohaibshabbir988@gmail.com\n
+    **Instagram : ** https://www.instagram.com/letsall.code\n
+    **Linkdin : ** www.linkedin.com/in/zohaib-shabbir-508427297\n
     This tool generates complete frontend solutions with:
     - Multiple pages
     - Mobile-responsive design
@@ -854,7 +854,7 @@ Key requirements:
     - Use images appropriately
     use only style.css for css not anyother path like "css/style.css"
     use  js file script.js not anyother path like "js/script.js"
-    use images gfrom like not folder like "images/"
+    use images from links instead folder like "images/"
     make it responsive for both desktop,mobile and tablets
     """
 
